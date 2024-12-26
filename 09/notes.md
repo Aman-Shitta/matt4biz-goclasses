@@ -59,6 +59,10 @@ for _, s := range ss {
 }
 
 
+*PS - 
+//  For anyone using Go >=1.22, the behavior where the variable i
+// captures the same location and prints the same value (e.g., 4)
+// when a closure is called has been fixed in the latest versions.
 
 
 https://youtu.be/US3TGA-Dpqo?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
