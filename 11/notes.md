@@ -1,0 +1,3 @@
+# Homework 
+
+Assignment to countWordsAndImages
